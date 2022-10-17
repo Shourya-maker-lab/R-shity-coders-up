@@ -1,1 +1,1 @@
-<h1>this is a c code which say are shitty coders up</h1>
+<h1>These are all code in c these are fun and soon will be launching a website to </h1>
